@@ -1,0 +1,4 @@
+com\inetbanking\testCases\TC1_Login.class
+com\inetbanking\pageObjects\LoginPage.class
+com\inetbanking\testCases\BaseClass.class
+com\inetbanking\utilities\Reporting.class
